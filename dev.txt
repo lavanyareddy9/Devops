@@ -1,3 +1,4 @@
 git as nice tool
 git is a awesome tool
 git is fast
+git is tool
