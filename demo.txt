@@ -1,7 +1,10 @@
 git tool is easy to understand
 git status command is stand for to check the status
 <<<<<<< HEAD
+<<<<<<< HEAD
 git is a comprehensive tool
 =======
 git is a awesome tool
 >>>>>>> 08384b1880a5b70b790e272cac3d8bdf6f3a5239
+=======
+>>>>>>> parent of ddcc14b (awesome tool)
