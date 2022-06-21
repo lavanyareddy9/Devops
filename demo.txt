@@ -3,3 +3,4 @@ git status command is stand for to check the status
 git is a comprehensive tool
 git is a awesome tool
 git branch demo second time
+git has protective rules
