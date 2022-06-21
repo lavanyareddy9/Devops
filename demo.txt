@@ -1,2 +1,3 @@
 git tool is easy to understand
 git status command is stand for to check the status
+git is a awesome tool
