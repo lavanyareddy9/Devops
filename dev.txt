@@ -4,3 +4,4 @@ git is fast
 This is comprehensive tool
 git is tool
 git
+git stash
