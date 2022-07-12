@@ -4,3 +4,4 @@ git is a comprehensive tool
 git is a awesome tool
 git branch demo second time
 demo stash
+git demo
